@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Obiagba Mary Ifeoma</b></sub></a><br /><a href="#mentoring-Ifycode" title="Mentoring">🧑‍🏫</a><a href="#infra-Ifycode" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Obiagba Mary Ifeoma</b></sub></a><br /><a href="#mentoring-Ifycode" title="Mentoring">🧑‍🏫</a> <a href="#infra-Ifycode" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/GADS-teams/doc/commits?author=Ifycode" title="Documentation">📖</a></td>
   </tr>
 </table>
 
