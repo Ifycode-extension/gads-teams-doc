@@ -4,6 +4,6 @@
 
 ## Google Africa Developer Scholarship teams and projects 
 
-Hey, congratulations on being accepted into the Google Africa Developer Scholarship program this year! This is a guide put together by past and present GADS learners and mentors, to introduce you to how GADS teams work from beginning to the end of the program. 
+Hey, congratulations on being accepted into the Google Africa Developer Scholarship program this year! This is a guide put together by past and present GADS learners and mentors, to walk you through how GADS teams work from beginning to the end of the program. 
 
 
