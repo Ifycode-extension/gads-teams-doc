@@ -7,7 +7,7 @@
 * [How to contribute](contribution-guide/contributing.md)
 * [Git workflow](contribution-guide/git-workflow.md)
 
-## GADS contributors <a id="contributors"></a>
+## GADS contributors
 
-* [Contributors](contributors/contributor.md)
+* [Contributors](gads-contributors/contributor.md)
 
