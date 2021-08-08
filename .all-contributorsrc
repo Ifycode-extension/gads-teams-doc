@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md"
+    "gads-contributors/contributor.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -12,7 +12,6 @@
       "profile": "https://github.com/Ifycode",
       "contributions": [
         "mentoring",
-        "doc",
         "infra"
       ]
     }
