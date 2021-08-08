@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GADS team guide](README.md)
+* [GADS teams guide](README.md)
 
 ## contribution guide
 
