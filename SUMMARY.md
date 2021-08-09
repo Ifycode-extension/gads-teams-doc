@@ -14,5 +14,7 @@
 
 ## GADS contributors
 
-* [Contributors](gads-contributors/contributor.md)
+---
+
+* [Contributors](https://github.com/GADS-teams/doc/blob/main/contributor.md)
 
