@@ -1,11 +1,12 @@
 # Table of contents
 
 * [GADS teams guide](README.md)
+* [About the guide](about-the-guide.md)
 
 ## contribution guide
 
+* [Making contributions](contribution-guide/contributing.md)
 * [Git workflow](contribution-guide/git-workflow.md)
-* [How to contribute](contribution-guide/contributing.md)
 
 ## gads projects
 
