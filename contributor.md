@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Thanks to all past and present GADS learners and mentors who have contributed to this project ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks to all past and present GADS learners and mentors from all 3 tracks (Mobile Web specialist, Associate Cloud Engineer and Associate Android Developer) who have contributed to this project ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
