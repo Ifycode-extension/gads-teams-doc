@@ -10,7 +10,8 @@
 
 ## gads projects
 
-* [Add your GADS projects](https://github.com/GADS-teams/GADS-projects)
+* [GADS2021 projects](https://github.com/GADS-teams/GADS-projects)
+* [GADS2020 projects](https://github.com/GADS-teams/GADS-projects)
 
 ## GADS contributors
 
