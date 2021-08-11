@@ -14,6 +14,6 @@
 
 ## gads projects
 
-* [GADS2021 projects](https://github.com/GADS-teams/GADS-projects)
-* [GADS2020 projects](https://github.com/GADS-teams/GADS-projects)
+* [GADS2021 projects](https://github.com/GADS-teams/GADS-projects/tree/main/gads-2021)
+* [GADS2020 projects](https://github.com/GADS-teams/GADS-projects/tree/main/gads-2020)
 
